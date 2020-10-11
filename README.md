@@ -7,3 +7,10 @@ Most of it involves numbers.
 
 # Java - Spring
 All of these were for class projects, but I'm most proud of CDCollection because I built that all on my own.
+- Java Pt 1
+Toll Collection
+Toll Collection V2
+- Java Pt 2
+Assignment 1
+EVCharging
+CDCollection
